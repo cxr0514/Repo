@@ -8,4 +8,9 @@ This is the file that is used from Wendy's branch
 >>>>>>> wendy
 =======
 this is the copy from the Carlos branch
+<<<<<<< HEAD
+>>>>>>> carlos
+=======
+
+this is complete insanity
 >>>>>>> carlos
