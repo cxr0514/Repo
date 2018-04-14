@@ -1,2 +1,7 @@
 This is the master file
+<<<<<<< HEAD
 this data is from the latest changes
+=======
+
+This is the file that is used from Wendy's branch
+>>>>>>> wendy
