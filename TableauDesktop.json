@@ -1,0 +1,13 @@
+{
+  "Source": "TableauDesktop",
+  "CollectionName": "",
+  "Version": "10.3.781",
+  "LocalizedName": "Tableau Desktop",
+  "LocalizedDescription": "The Tableau Desktop is used to visualize and analyze data, helps to create stories, dashboards, workbooks and visualizations. It also helps to convert picture data into optimized database queries",
+  "Name": "Desktop",
+  "Publisher": "Tableau",
+
+  this is the first change done to this file
+
+
+this should only show on Wendy's branch
